@@ -10,12 +10,13 @@ Medallion Architetcure Layers
 
 # Medallion Architecture
 
+![architecture](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742141108/System_Architecture_t53bsm.jpg)
 
 # Workflow Instructions
 
-1. Create a resource group (You can download template for automation)
-2. Create Storage Account - Attach Resource Group -> Enable Publeic Access
-3. Add Container to Storage
+1. Create a resource group (You can download template for automation) 
+2. Create Storage Account - Attach Resource Group -> Enable Public Access
+3. Add Container to Storage -> Data Storage
     1. Bronze
     2. Silver
     3. Gold
@@ -28,7 +29,7 @@ Medallion Architetcure Layers
 Goto Query Editor for querying your data
 
 ```
-select * from [vb-medallion].information_schema.tables where table_schema = 'SalesT' and table_type='BASIC TABLE'
+select * from [medallion-vb-db].information_schema.tables where table_schema = 'SalesLT' and table_type='BASE TABLE'
 ```
 
 GOTO Data Factory
