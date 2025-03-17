@@ -26,8 +26,9 @@ Demo Snapshots
 
 ![5](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224141/Screenshot_2025-03-17_at_11.08.10_AM_h0zob3.png)
 
+# Demo
 
-![demo](https://www.youtube.com/watch?v=VKSf1NfdjTU&t=16s)
+[![demo](http://img.youtube.com/vi/VKSf1NfdjTU/0.jpg)]("https://www.youtube.com/watch?v=VKSf1NfdjTU")
 
 # Workflow Instructions
 
