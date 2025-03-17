@@ -12,6 +12,18 @@ Medallion Architetcure Layers
 
 ![architecture](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742221900/diagram-export-17-03-2025-10_31_09_elljhp.png)
 
+Demo Snapshots
+
+![1](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224140/Screenshot_2025-03-17_at_11.06.26_AM_roukan.png)
+
+![2](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224141/Screenshot_2025-03-17_at_11.07.26_AM_jzifio.png)
+
+![3](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224140/Screenshot_2025-03-17_at_11.07.03_AM_d3cqct.png)
+
+![4](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224142/Screenshot_2025-03-17_at_11.06.08_AM_vcj06c.png)
+
+![5](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224141/Screenshot_2025-03-17_at_11.08.10_AM_h0zob3.png)
+
 # Workflow Instructions
 
 1. Create a resource group (You can download template for automation) 
