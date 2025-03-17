@@ -10,7 +10,7 @@ Medallion Architetcure Layers
 
 # Medallion Architecture
 
-![architecture](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742141108/System_Architecture_t53bsm.jpg)
+![architecture](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742221900/diagram-export-17-03-2025-10_31_09_elljhp.png)
 
 # Workflow Instructions
 
