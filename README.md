@@ -26,6 +26,9 @@ Demo Snapshots
 
 ![5](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224141/Screenshot_2025-03-17_at_11.08.10_AM_h0zob3.png)
 
+
+![demo](https://www.youtube.com/watch?v=VKSf1NfdjTU&t=16s)
+
 # Workflow Instructions
 
 1. Create a resource group (You can download template for automation) 
