@@ -22,6 +22,8 @@ Demo Snapshots
 
 ![4](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224142/Screenshot_2025-03-17_at_11.06.08_AM_vcj06c.png)
 
+![6](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742225243/Screenshot_2025-03-17_at_11.27.06_AM_jwerr7.png)
+
 ![5](https://res.cloudinary.com/vaibhav-codexpress/image/upload/v1742224141/Screenshot_2025-03-17_at_11.08.10_AM_h0zob3.png)
 
 # Workflow Instructions
